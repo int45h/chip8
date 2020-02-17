@@ -1,5 +1,6 @@
 # chip8
 A small CHIP-8 emulator I wrote in C++ and SDL.
+![Alt text](chip8.png?raw=true "CHIP-8 Emu Screenshot")
 
 Features
 ------------
