@@ -34,7 +34,6 @@ Dependencies
 TO-DO
 ------------
 
-- Add makefile to make it easier to build 
 - Add Super CHIP 48 instructions
 - Add audio support
 - Add resizable window support
