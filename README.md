@@ -21,9 +21,23 @@ The CHIP-8 used a hexadecimal keypad for input, which is mapped to the sets of k
 
 NOTE that this is shown with the QWERTY keyboard layout, but will still map the keys to their corresponding positions on a different keyboard layout.
 
-#TO-DO
+Building
+------------
+To build, simply enter the 'build' directory and run the command 'make'. 
+
+Dependencies
+------------
+- SDL 2.0
+- Portaudio (Subject for removal in later versions)
+- g++ (Compiler)
+
+TO-DO
+------------
+
+- Add makefile to make it easier to build 
 - Add Super CHIP 48 instructions
 - Add audio support
 - Add resizable window support
 - Add built-in debugger + disassembler
 - Add instructions on how to play commonly used ROMS
+- Build for Windows + macOS
